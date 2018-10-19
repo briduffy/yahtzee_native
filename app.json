@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "sdkVersion": "30.0.0",
+    "splash": {
+      "backgroundColor": "#FFAFF",
+      "resizeMode": "cover",
+      "image": "./images/Yahzee.png"
+    },
+    "icon": "./images/YahtzeeHome.png"
+  }
+}
